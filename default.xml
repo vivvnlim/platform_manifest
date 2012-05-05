@@ -69,6 +69,7 @@
   <project path="device/samsung/p5-common" name="AOKP/device_samsung_p5-common" remote="gh" revision="ics" />
   <project path="device/samsung/p5wifi" name="AOKP/device_samsung_p5wifi" remote="gh" revision="ics" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="ics" />
+  <project path="device/samsung/toroplus" name="AOKP/android_device_samsung_toroplus" remote="gh" revision="ics" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="gh" revision="ics" />
   <project path="device/samsung/vibrantmtd" name="AOKP/device_samsung_vibrantmtd" remote="gh" revision="ics" />
   <project path="device/samsung/p1c" name="AOKP/device_samsung_p1c" remote="gh" revision="ics" />
@@ -226,6 +227,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/wlan" name="AOKP/android_hardware_ti_wlan" remote="gh" revision="ics" />
   <project path="hardware/ti/wpan" name="AOKP/android_hardware_ti_wpan" remote="gh" revision="ics" />
+  <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" remote="gh" revision="ics" />
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
